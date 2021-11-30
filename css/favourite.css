@@ -1,4 +1,8 @@
+.favourite {
+  display: flex;
+}
 .favourite-bg-1 {
+  
     background-image: url(../img/favourites/indonesia.png);
   }
   
