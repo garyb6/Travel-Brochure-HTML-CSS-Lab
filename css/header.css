@@ -22,3 +22,10 @@
   .main-nav .logo {
     background: #4584b1;
   }
+
+  #header {
+    grid-area: header;
+
+  }
+
+  
