@@ -1,8 +1,8 @@
 .popular {
+    position: relative;
     display: flex;
     flex-wrap: wrap;
     justify-content: space-evenly;
-;
 }
 .popular-bg-1 { background-image: url(../img/destination/italy.png);
     height: 200px;
