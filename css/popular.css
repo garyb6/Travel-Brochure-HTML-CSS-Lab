@@ -1,0 +1,22 @@
+.popular {
+    display: flex;
+    
+}
+.popular-bg-1 {
+    
+    background-image: url(../img/place/california.png);
+    height: 200px;
+    width: 200px;
+    }
+    
+.popular-bg-2 {
+    background-image: url(../img/place/korola_megna.png);
+    height: 200px;
+    width: 200px;
+    }
+    
+.popular-bg-3 {
+    background-image: url(../img/place/london.png);
+    height: 200px;
+    width: 200px;
+    }

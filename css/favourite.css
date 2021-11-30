@@ -1,17 +1,22 @@
 .favourite {
   display: flex;
+  
 }
 .favourite-bg-1 {
   
     background-image: url(../img/favourites/indonesia.png);
+    height: 200px;
+    width: 200px;
   }
   
-  .favourite-bg-2 {
+.favourite-bg-2 {
     background-image: url(../img/favourites/australia.png);
+    height: 200px;
+    width: 200px;
   }
   
-  .favourite-bg-3 {
+.favourite-bg-3 {
     background-image: url(../img/favourites/switzerland.png);
+    height: 200px;
+    width: 200px;
   }
-  
-  

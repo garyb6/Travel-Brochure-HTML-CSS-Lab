@@ -11,18 +11,19 @@ body {
   display: grid;
   grid-template-areas: 
   "header header header"
-  "main"
+  "main main main"
   "footer footer footer"
 }
 
-/* #main section grid container {
+#maingrid {
   display: grid;
   grid-template-areas: 
-  class fav
-  class where to
-  class popular
-  class popular2
-  class testimonials; */
+  ".favourites"
+  ".where-togo"
+  ".popular"
+  ".popular2"
+  "testimonial-area"
+}
 
 
 /* #grid-container {
