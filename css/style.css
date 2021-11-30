@@ -7,7 +7,7 @@ body {
   font-style: normal;
 }
 
-#grid-container {
+/* #grid-container {
   display: grid;
   grid-template-areas: 
   "header header header"
@@ -24,7 +24,7 @@ body {
   ".popular2"
   "testimonial-area"
 }
-
+ */
 
 /* #grid-container {
   display: grid;

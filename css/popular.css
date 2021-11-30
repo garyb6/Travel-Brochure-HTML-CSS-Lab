@@ -1,22 +1,42 @@
 .popular {
     display: flex;
-    
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+;
 }
-.popular-bg-1 {
-    
-    background-image: url(../img/place/california.png);
+.popular-bg-1 { background-image: url(../img/destination/italy.png);
     height: 200px;
-    width: 200px;
-    }
-    
-.popular-bg-2 {
-    background-image: url(../img/place/korola_megna.png);
+    width: 300px}
+.popular-bg-2 { background-image: url(../img/destination/brazil.png);
     height: 200px;
-    width: 200px;
-    }
-    
-.popular-bg-3 {
-    background-image: url(../img/place/london.png);
+    width: 300px}
+.popular-bg-3 { background-image: url(../img/destination/america.png);
     height: 200px;
-    width: 200px;
-    }
+    width: 300px}
+.popular-bg-4 { background-image: url(../img/destination/nepal.png);
+    height: 200px;
+    width: 300px}
+.popular-bg-5 { background-image: url(../img/destination/maldives.png);
+    height: 200px;
+    width: 300px}
+.popular-bg-6 { background-image: url(../img/destination/indonesia.png);
+    height: 200px;
+    width: 300px;}
+.popular-bg-7 {background-image: url(../img/place/california.png);
+    height: 200px;
+    width: 300px}
+.popular-bg-8 {background-image: url(../img/place/korola_megna.png);
+    height: 200px;
+    width: 300px}
+.popular-bg-9 {background-image: url(../img/place/london.png);
+    height: 200px;
+    width: 300px}
+.popular-bg-10 {background-image: url(../img/place/miami.png);
+    height: 200px;
+    width: 300px}
+.popular-bg-11 {background-image: url(../img/place/california_2.png);
+    height: 200px;
+    width: 300px}
+.popular-bg-12 {background-image: url(../img/place/iceland.png);
+    height: 200px;
+    width: 300px}
