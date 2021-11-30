@@ -43,11 +43,16 @@
             <form>
                 <h5> Where do you want to go?</h5> 
                 <input type="text" value= "Where to go?">
-                <input type="date" value= "dd/mm/yyyy">
-                <select>
-                    <option value= "Travel type">Air</option>
-                </select>
-                <input type="Submit" value="Search">
+                <div class="input-field">
+                    <input type="date" id = "datepicker" placeholder= "Date">
+                </div> 
+                <div class="input-field">
+                    <select class="nice-select">
+                        <option disabled selected>Travel type</option>
+                        <option value="1">option1</option>
+                        <option value="2">option2</option>
+                    </select>
+                </div>
             </form>
         </section>
         <section class="popular">
